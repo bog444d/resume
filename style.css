@@ -1,0 +1,26 @@
+body{
+    background-color: greenyellow;
+}
+p{
+   
+        font-family: "UnifrakturMaguntia";
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+.my_block{
+    color: yellow;
+    font-size: 50px;
+    font-weight: 1000;
+    line-height: 30px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.test{
+    font-style: italic;
+    font-size: 30px;
+    line-height: 25px;
+    text-shadow: 5px;
+    color: chocolate;
+
+}
